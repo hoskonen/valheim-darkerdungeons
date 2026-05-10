@@ -1,0 +1,9 @@
+{
+  "name": "DarkerDungeons",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/hoskonen/valheim-darkerdungeons",
+  "description": "Makes Black Forest crypts darker, moodier, and more reliant on real light sources.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
