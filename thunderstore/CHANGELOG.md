@@ -1,8 +1,8 @@
-
-## `thunderstore/CHANGELOG.md`
-
-```md
 # Changelog
+
+## 1.0.1
+
+- Fixed README formatting
 
 ## 1.0.0
 

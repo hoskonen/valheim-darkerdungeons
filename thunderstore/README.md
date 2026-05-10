@@ -7,7 +7,7 @@ Darker Dungeons makes Black Forest crypts darker, moodier, and more reliant on r
 The goal is simple: make crypt exploration feel more tense and immersive without changing combat, loot, enemies, or dungeon layouts.
 
 ![Darker Dungeons screenshot](https://i.imgur.com/R0I7c4O.png)
-<p align="center"><em>*Image without any additional light sources like hip lantern, torch or dungeon guide from Jewelcrafting</em></p>
+<p align="center"><em>Image without any additional light sources like hip lantern, torch or dungeon guide from Jewelcrafting.</em></p>
 
 ## Features
 
@@ -35,6 +35,7 @@ Install with a mod manager, or manually place the DLL into your BepInEx plugins 
 
 ```text
 BepInEx/plugins/
+```
 
 ## Known Issues
 
